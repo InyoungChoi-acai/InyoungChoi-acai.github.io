@@ -4,7 +4,7 @@ title: Contact
 subtitle: Contact Information
 ---
 
-- Dept. of Aerospace Engineering, Pusan National University  
-- Busandaehang-ro 63 beon-gil 2, Geumjeong-gu, Busan, Korea 46241  
-- Office 051-510-2309  
-- E-mail : donghyun.cho@pusan.ac.kr  
+- Dept. of Aerospace Engineering, Korea Advanced Institutde of Science and Technology 
+- 34141 대전광역시 유성구 대학로 291 한국과학기술원(KAIST) 
+- Office 042-350-3778
+- E-mail : inyoung.choi@kaist.ac.kr 
