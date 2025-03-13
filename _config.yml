@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: SSC @ PNU
+title: Inyoung Choi
 
 # Your name to show in the footer
-author: Inyoung.Choi
+author: Inyoung Choi
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,22 +21,7 @@ author: Inyoung.Choi
 
 navbar-links:
   Professor: "Professor"
-  Members:
-    - Ph.D Candidates: "PhD"
-    - M.S. Candidates: "Master"
-    - Undergraduated: "Undergraduated"
-    - Alumni: "Alumni"
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Professor: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
-  Research:
-    - Ongoing: "Ongoing"
-    - Outdated: "Outdated"
-  Publications:
-    - International Journals: "InternationalJournals"
-    - Domestic Journals: "DomesticJournals"
-    - Conferences: "Conferences"
-    - Patents: "Patents"
+  Publications: "Publications"
   Notice: "Notice"
   Contact: "Contact"
 
@@ -64,7 +49,7 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "donghyun.cho@pusan.ac.kr"
+  email: "inyoung.choi@kaist.ac.kr"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
