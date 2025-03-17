@@ -1,10 +1,10 @@
 ---
 layout: page
 title: CV
-subtitle: Cho, Donghyun / donghyun.cho@pusan.ac.kr
+subtitle: Choi, Inyoung / inyoung.choi@kaist.ac.kr
 ---
 
-![Cho, Donghyun](/assets/img/최인영.png){:width="210px" height="270px"}
+![Choi, Inyoung](/assets/img/최인영.png){:width="210px" height="270px"}
 
 
 ### Education
@@ -26,5 +26,3 @@ For 10 consecutive semesters, 10M KRW/semester
 **Kim Young-Han Global Leader Scholarship (2024)**<br>
 For 2 consecutive semesters, 2M KRW/semester
 
-**Assistant Professor (2021~Present)**<br>
-Pusan National University, Busan, South Korea
