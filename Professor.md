@@ -4,7 +4,7 @@ title: CV
 subtitle: Choi, Inyoung / inyoung.choi@kaist.ac.kr
 ---
 
-![Choi, Inyoung](/assets/img/최인영.png){:width="210px" height="270px"}
+![Choi, Inyoung](/assets/img/최인영.jpg){:width="210px" height="270px"}
 
 
 ### Education
