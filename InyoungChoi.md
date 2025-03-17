@@ -17,7 +17,17 @@ Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: D
 
 
 ### Honors and Awards
+**Participation prize, The Korean Society of Aeronautics and Space Science (June. 2023)**<br>
+: Student Paper Competition, 
 
+**Outstanding Presentation Paper Award, Korea Society of Propulsion Engineering (May. 2022)**<br>
+: 
+
+**Gold medal, Korea Aerospace Research Institute (Dec. 2021)**<br>
+: Rocket Academic Competition, Aerospace Science Competition
+
+**Grand prize, Ministerial of Science and ICT (Dec. 2021)**<br>
+: Rocket Launch Competition, Aerospace Science Competition
   
 
 ### Scholarship
