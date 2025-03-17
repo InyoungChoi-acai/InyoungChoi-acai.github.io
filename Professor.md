@@ -1,33 +1,30 @@
 ---
 layout: page
-title: Professor
+title: CV
 subtitle: Cho, Donghyun / donghyun.cho@pusan.ac.kr
 ---
 
-![Cho, Donghyun](/assets/img/조동현.png){:width="210px" height="270px"}
+![Cho, Donghyun](/assets/img/최인영.png){:width="210px" height="270px"}
 
 
 ### Education
 
-**Bachelor's Degree (1999~2003s)**<br>
-Aerospace Engineering, Pusan National University, Busan, South Korea
+**Integrated master's and doctoral course (Mar. 2024 ~ Present)**<br>
+Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Jihwan. P. Choi)<br>
 
-**Master's Degree (2004s~2006s)**<br>
-Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Min-Jae Tahk)<br>
-*Thesis: Orbit Transfer Trajectory Optimization for Small Satellite with Electric Propulsion System*
+**Bachelor's Degree (Mar. 2018 ~ Feb. 2024)**<br>
+Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: Donghyun Cho)
 
-**Ph.D Degree (2007~2011)**<br>
-Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Hyochoong Bang)<br>
-*Dissertation: Spacecraft Trajectory Correction Maneuver Design using the Improved B-plane Targeting Method*
+
 
   
 
-### Experience
-**Scholarship Student (2004s~2011)**<br>
-SaTReC, KAIST, Daejon, South Korea
+### Honors and Awards
+**Hyunsong Educational & Cultural Foundation Scholarship (2025 ~ )**<br>
+For 10 consecutive semesters, 10M KRW/semester
 
-**Senior Research Fellow (2012~2021)**<br>
-KARI, Daejon, South Korea
+**Kim Young-Han Global Leader Scholarship (2024)**<br>
+For 2 consecutive semesters, 2M KRW/semester
 
 **Assistant Professor (2021~Present)**<br>
 Pusan National University, Busan, South Korea
