@@ -16,13 +16,21 @@ Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Jihwan. P. Choi)<br
 Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: Donghyun Cho)
 
 
+### Honors and Awards
 
   
 
-### Honors and Awards
+### Scholarship
 **Hyunsong Educational & Cultural Foundation Scholarship (2025 ~ )**<br>
 For 10 consecutive semesters, 10M KRW/semester
 
 **Kim Young-Han Global Leader Scholarship (2024)**<br>
 For 2 consecutive semesters, 2M KRW/semester
+
+**Academic Excellence Scholarship (2018, 2019~2023)**<br>
+For 6 undergraduate semesters
+
+**National Science & Technology Scholarship (2023)**<br>
+For 1 undergraduate semester
+
 
