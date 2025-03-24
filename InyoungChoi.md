@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: CV
 subtitle: Choi, Inyoung / inyoung.choi@kaist.ac.kr
 ---
