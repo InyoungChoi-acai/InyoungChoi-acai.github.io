@@ -29,7 +29,7 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
  **Bachelor's Degree (*Summa Cum Laude*) (Mar. 2018 ~ Feb. 2024)**<br>
  Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: Donghyun Cho)
 
-<br><br>
+<br>
 
 ## Publications
 ### International Journal Publications
@@ -52,12 +52,12 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
   3. **최인영**, 김원기, 남현우, 조민선, 최정열, "다목적 소형 과학 로켓의 개발 및 시험", 한국추진공학회, 추계종합학술대회, Nov. 2023
   4. 김원기, 남현우, **최인영** 외 4명, "PROCKET-Ⅲ 소형고체로켓의 자세제어기 개발", 한국추진공학회, 추계종합학술대회, Nov. 2021
 
-<br><br>
+<br>
 
 ## Patents
 1. To be updated
 
-<br><br>
+<br>
 
 ## Research Experience
 ### Graduate Research Associate
@@ -78,7 +78,7 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
   2. Designed a ground station GUI using the Processing programming language
   3. Established the flight S/W for a scientific rocket
 
-<br><br>
+<br>
 
 ## Honors and Awards
   1. **Participation prize**, The Korean Society of Aeronautics and Space Science (June. 2023)<br>
@@ -93,7 +93,7 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
   4. **Grand prize**, Ministerial of Science and ICT (Dec. 2021)<br>
   : Rocket Launch Competition, Aerospace Science Competition
 
-<br><br>
+<br>
 
 ## Scholarship
   1. **Hyunsong Educational & Cultural Foundation Scholarship (2025 ~ )**<br>
