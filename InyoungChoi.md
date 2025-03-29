@@ -1,11 +1,17 @@
 ---
 layout: post
 title: Choi, Inyoung
-subtitle: inyoung.choi@kaist.ac.kr
 full-width: true
 ---
 
 ![Choi, Inyoung](/assets/img/최인영.jpg){:width="150px" height="200px"}
+
+<h1 style="color: #0056A4; font-weight: bold;">INYOUNG CHOI</h1>
+
+Ph. D. candidate
+Dept. of Aerospace Engineering  
+Korea Advanced Institute of Science and Technology (KAIST)  
+Email : <a href="mailto:inyoung.choi@kaist.ac.kr">inyoung.choi@kaist.ac.kr</a>
 
 
 ## BIO
