@@ -46,6 +46,12 @@ Inyoung Choi received his B.S. degree (<i>summa cum laude</i>) in aerospace engi
 ### International Conference Publications
   1. **I. Choi**, S. Kim and J. P. Choi, "A Simplified Algorithm for Online Satellite Network Slice Planning with Trade-Off Between Load-Balancing and Minimum-Hop Routing," 2024 15th International Conference on Information and Communication Technology Convergence (ICTC), 2024
 
+### Domestic Conference Publications
+  1. **최인영**, 김성훈, 최지환, "지구 고정 빔 기반 저궤도 위성 통신 시스템의 전자 조향 빔 왜곡 및 빔 간 간섭 분석", 한국항공우주학회, 우주학술대회, Oct. 2024
+  2. **최인영**, 김성훈, 최지환, "소프트웨어 정의 위성 네트워크를 위한 지구 고정 클러스터 모델링", 한국항공우주학회, 우주학술대회, Oct. 2024
+  3. **최인영**, 김원기, 남현우, 조민선, 최정열, "다목적 소형 과학 로켓의 개발 및 시험", 한국추진공학회, 추계종합학술대회, Nov. 2023
+  4. 김원기, 남현우, **최인영** 외 4명, "PROCKET-Ⅲ 소형고체로켓의 자세제어기 개발", 한국추진공학회, 추계종합학술대회, Nov. 2021
+
 
 
 ## Patents
