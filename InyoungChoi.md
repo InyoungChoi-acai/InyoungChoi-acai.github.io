@@ -13,15 +13,11 @@ full-width: true
 
 
 ## Education
-<div class="indent">
- 
-  **Integrated master's and doctoral course (Mar. 2024 ~ Present)**<br>
-  Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Jihwan. P. Choi)<br>
-  
-  **Bachelor's Degree (Mar. 2018 ~ Feb. 2024)**<br>
-  Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: Donghyun Cho)
-  
-</div>
+**Integrated master's and doctoral course (Mar. 2024 ~ Present)**<br>
+Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Jihwan. P. Choi)<br>
+
+**Bachelor's Degree (Mar. 2018 ~ Feb. 2024)**<br>
+Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: Donghyun Cho)
 
 
 ## Publications
