@@ -46,6 +46,7 @@ full-width: true
 
 ## Honors and Awards
 <div class="indent">
+ 
   1. **Participation prize, The Korean Society of Aeronautics and Space Science (June. 2023)**<br>
   : Student Paper Competition, 
   
@@ -57,11 +58,13 @@ full-width: true
   
   4. **Grand prize, Ministerial of Science and ICT (Dec. 2021)**<br>
   : Rocket Launch Competition, Aerospace Science Competition
+
 <\div>
   
 
 ## Scholarship
 <div class="indent">
+ 
   1. **Hyunsong Educational & Cultural Foundation Scholarship (2025 ~ )**<br>
   For 10 consecutive semesters, 10M KRW/semester
   
@@ -73,6 +76,7 @@ full-width: true
   
   4. **National Science & Technology Scholarship (2023)**<br>
   For 1 undergraduate semester
+
 <\div>
 
 
