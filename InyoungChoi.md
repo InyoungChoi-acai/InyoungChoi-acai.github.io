@@ -21,9 +21,7 @@ Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: D
 
 
 ## Publications
-<div class="indent">
- 
-  ### International Journal Publications
+ ### International Journal Publications
   1. **(Under review)** **I. Choi**, S. Kim, Y. Lee, and J. P. Choi, “A Scalable Multi-controller SDN Framework for LEO Mega-constellation via Topology Virtualization,” IEEE Internet of Things Journal.
   
   2. **(Under review)** S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “Multi-gateway Feeder Link Switching Optimization in Multi-shell LEO Mega-constellations,”  IEEE Transactions on Communications.
@@ -36,13 +34,9 @@ Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: D
   
   ### International Conference Publications
   1. **I. Choi**, S. Kim and J. P. Choi, "A Simplified Algorithm for Online Satellite Network Slice Planning with Trade-Off Between Load-Balancing and Minimum-Hop Routing," 2024 15th International Conference on Information and Communication Technology Convergence (ICTC), 2024
-     
-</div>
 
 
 ## Honors and Awards
-<div class="indent">
- 
   1. **Participation prize, The Korean Society of Aeronautics and Space Science (June. 2023)**<br>
   : Student Paper Competition, 
   
@@ -54,13 +48,9 @@ Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: D
   
   4. **Grand prize, Ministerial of Science and ICT (Dec. 2021)**<br>
   : Rocket Launch Competition, Aerospace Science Competition
-
-</div>
   
 
 ## Scholarship
-<div class="indent">
- 
   1. **Hyunsong Educational & Cultural Foundation Scholarship (2025 ~ )**<br>
   For 10 consecutive semesters, 10M KRW/semester
   
@@ -72,7 +62,5 @@ Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: D
   
   4. **National Science & Technology Scholarship (2023)**<br>
   For 1 undergraduate semester
-
-</div>
 
 
