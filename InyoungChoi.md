@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Choi, Inyoung
 full-width: true
 ---
 
