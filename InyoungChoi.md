@@ -42,8 +42,16 @@ Inyoung Choi (inyoung.choi@kaist.ac.kr) received his B.S. degree (<i>summa cum l
 
 
 
-## Research Experience
+### Patents
 
+
+
+## Research Experience
+### Graduate Research Associate
+1. Development of OBP Network Technology for Ultra-Small Communication Satellites  (2024, Sponsor: Hanwha Systems)
+2. Study on OBP Network Routing and Handover Algorithms (2024-2025, Sponsor: Hanwha Systems)
+
+### Undergraduate Research Associate
 
 
 
