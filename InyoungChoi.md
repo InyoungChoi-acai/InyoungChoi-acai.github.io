@@ -43,12 +43,17 @@ Inyoung Choi (inyoung.choi@kaist.ac.kr) received his B.S. degree (<i>summa cum l
 
 
 
+## Research Experience
+
+
+
+
 ## Honors and Awards
   1. **Participation prize**, The Korean Society of Aeronautics and Space Science (June. 2023)<br>
-  : Student Paper Competition, 
+  : Student Paper Competition, Aerospace science competition for undergraduate students
   
   2. **Outstanding** Presentation Paper Award, Korea Society of Propulsion Engineering (May. 2022)<br>
-  : 
+  : Rocket Academic Competition, Aerospace Science Competition
   
   3. **Gold medal**, Korea Aerospace Research Institute (Dec. 2021)<br>
   : Rocket Academic Competition, Aerospace Science Competition
