@@ -58,11 +58,18 @@ Inyoung Choi received his B.S. degree (<i>summa cum laude</i>) in aerospace engi
  2. Study on OBP Network Routing and Handover Algorithms (2024 ~ 2025, Sponsor: Hanwha Systems)
 
 ### Undergraduate Research Associate
-**Undergraduate Research Intern at th (Space Systems and Control Lab. (Advisor: Prof. Dong-Hyun Cho) (Jan. 2022 ~ Dec. 2023)**
+**Undergraduate Research Intern at Space Systems and Control Lab. (Advisor: Donghyun Cho) (Jan. 2022 ~ Jan. 2024)**
  1. Study on the Dual quaternion (Jan. 2023 ~ Dec. 2023)
- 2. Study on the Relative Dynamics for Rendezvous Optimization Mission (Jan. 2023 ~ Dec. 2023)
- 3. Study on the Satellite’s Attitude Control (Jul. 2022 ~ Dec. 2023)
+ 2. Study on the Relative Dynamics for Rendezvous Optimization Mission (Jan. 2023 ~ Dec. 2023) <br>
+   : Developed a rendezvous trajectory optimization algorithm using Trajectory Correction Maneuver (TCM) <br>
+   : Applied shooting method and Clohessy-Wiltshire (CW) equations
+ 3. Study on the Satellite’s Attitude Control (Jul. 2022 ~ Dec. 2023) <br>
+   : Designed the satellite’s ADCS simulator based on Simulink and MATLAB
 
+**Solid-propellant Based Retro Rocket Development (Jan. 2021 ~ Dec. 2021)**
+  1. Developed a PD controller using Arduino
+  2. Designed a ground station GUI using the Processing programming language
+  3. Established the flight stage for a space launch vehicle
 
 
 ## Honors and Awards
