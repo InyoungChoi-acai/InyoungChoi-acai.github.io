@@ -59,17 +59,17 @@ Inyoung Choi received his B.S. degree (<i>summa cum laude</i>) in aerospace engi
 
 ### Undergraduate Research Associate
 **Undergraduate Research Intern at SSC Lab. (Advisor: Donghyun Cho) (Jan. 2022 ~ Jan. 2024)**
- 1. Study on the Dual quaternion (Jan. 2023 ~ Dec. 2023)
+ 1. Research for Advancing Technologies of Reusable Uncrewed Space Vehicles (Jan. 2023 ~ Dec. 2023) <br>
+   : Developed a dynamic simulator by using dual quaternion
  2. Study on the Relative Dynamics for Rendezvous Optimization Mission (Jan. 2023 ~ Dec. 2023) <br>
-   : Developed a rendezvous trajectory optimization algorithm using Trajectory Correction Maneuver (TCM) <br>
-   : Applied shooting method and Clohessy-Wiltshire (CW) equations
+   : Developed a rendezvous trajectory optimization algorithm using Trajectory Correction Maneuver (TCM)
  3. Study on the Satellite’s Attitude Control (Jul. 2022 ~ Dec. 2023) <br>
    : Designed the satellite’s ADCS simulator based on Simulink and MATLAB
 
 **Solid-propellant Based Retro Rocket Development (Jan. 2021 ~ Dec. 2021)**
-  1. Developed a PD controller using Arduino
+  1. Developed a PD controller and thrust vector control system using Arduino
   2. Designed a ground station GUI using the Processing programming language
-  3. Established the flight stage for a space launch vehicle
+  3. Established the flight S/W for a scientific rocket
 
 
 ## Honors and Awards
