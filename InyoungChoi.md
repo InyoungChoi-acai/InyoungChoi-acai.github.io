@@ -42,7 +42,7 @@ Inyoung Choi (inyoung.choi@kaist.ac.kr) received his B.S. degree (<i>summa cum l
 
 
 
-### Patents
+## Patents
 
 
 
