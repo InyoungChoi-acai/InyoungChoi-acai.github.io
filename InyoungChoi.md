@@ -55,7 +55,7 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
 
 
 ## Patents
-
+1. To be updated
 
 
 ## Research Experience
