@@ -16,8 +16,15 @@ Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Jihwan. P. Choi)<br
 
 **Bachelor's Degree (Mar. 2018 ~ Feb. 2024)**<br>
 Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: Donghyun Cho)
-
-
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
 ## Publications
 ### Ongoing
 1. (Under review) **I. Choi**, S. Kim, Y. Lee, and J. P. Choi, “A Scalable Multi-controller SDN Framework for LEO Mega-constellation via Topology Virtualization,” IEEE Internet of Things Journal (IoTJ).
