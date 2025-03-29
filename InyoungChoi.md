@@ -21,7 +21,7 @@ full-width: true
   **Bachelor's Degree (Mar. 2018 ~ Feb. 2024)**<br>
   Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: Donghyun Cho)
   
-<\div>
+<\div class="indent">
 
 
 ## Publications
