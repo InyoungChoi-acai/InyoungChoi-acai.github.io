@@ -19,11 +19,11 @@ Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: D
 <hr>
 ## Publications
 ### Ongoing
-1. (Under review) **I. Choi**, S. Kim, Y. Lee, and J. P. Choi, “A Scalable Multi-controller SDN Framework for LEO Mega-constellation via Topology Virtualization,” IEEE Internet of Things Journal (IoTJ).
+1. (Under review) **I. Choi**, S. Kim, Y. Lee, and J. P. Choi, “A Scalable Multi-controller SDN Framework for LEO Mega-constellation via Topology Virtualization,” IEEE Internet of Things Journal.
 
-2. (Under review) S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “Multi-gateway Feeder Link Switching Optimization in Multi-shell LEO Mega-constellations,”  IEEE Transactions on Communications (TCOM).
+2. (Under review) S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “Multi-gateway Feeder Link Switching Optimization in Multi-shell LEO Mega-constellations,”  IEEE Transactions on Communications.
 
-3. (In perparing) S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “LEO Mega-constellation Configuration Design for Ubiquitous Connectivity in Global SDN Systems,” IEEE Transactions on Aerospace and Electronic Systems (TAES).
+3. (In perparing) S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “LEO Mega-constellation Configuration Design for Ubiquitous Connectivity in Global SDN Systems,” IEEE Transactions on Aerospace and Electronic Systems.
 
 4. (In preparing) S. Kim, **I. Choi**, and J. P. Choi, “O-RAN in LEO Mega-constellations : Architecture and Virtualization.”
 
