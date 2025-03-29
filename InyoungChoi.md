@@ -1,3 +1,6 @@
+max-width: 1000px
+margin: 0 auto;
+
 ---
 layout: post
 title: Choi, Inyoung
