@@ -17,7 +17,7 @@ Email : <a href="mailto:inyoung.choi@kaist.ac.kr">inyoung.choi@kaist.ac.kr</a>
 ## BIO
  Inyoung Choi (inyoung.choi@kaist.ac.kr) received his B.S. degree (<i>summa cum laude</i>) in aerospace engineering from Pusan National University, Busan, South Korea, in 2024. He is currently pursuing his integrated master's and doctoral course with the Department of Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST). His research interests are in Aerospace communication, network and the applications of deep reinforcement learning.
 
----
+
 
 ## Education
  **Integrated master's and doctoral course (Mar. 2024 ~ Present)**<br>
@@ -26,7 +26,7 @@ Email : <a href="mailto:inyoung.choi@kaist.ac.kr">inyoung.choi@kaist.ac.kr</a>
  **Bachelor's Degree (Mar. 2018 ~ Feb. 2024)**<br>
  Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: Donghyun Cho)
 
----
+
 
 ## Publications
 ### International Journal Publications
@@ -43,7 +43,7 @@ Email : <a href="mailto:inyoung.choi@kaist.ac.kr">inyoung.choi@kaist.ac.kr</a>
 ### International Conference Publications
   1. **I. Choi**, S. Kim and J. P. Choi, "A Simplified Algorithm for Online Satellite Network Slice Planning with Trade-Off Between Load-Balancing and Minimum-Hop Routing," 2024 15th International Conference on Information and Communication Technology Convergence (ICTC), 2024
 
----
+
 
 ## Honors and Awards
   1. **Participation prize**, The Korean Society of Aeronautics and Space Science (June. 2023)<br>
@@ -58,7 +58,7 @@ Email : <a href="mailto:inyoung.choi@kaist.ac.kr">inyoung.choi@kaist.ac.kr</a>
   4. **Grand prize**, Ministerial of Science and ICT (Dec. 2021)<br>
   : Rocket Launch Competition, Aerospace Science Competition
 
----
+
 
 ## Scholarship
   1. **Hyunsong Educational & Cultural Foundation Scholarship (2025 ~ )**<br>
