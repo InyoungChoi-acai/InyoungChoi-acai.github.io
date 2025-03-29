@@ -78,6 +78,7 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
   2. Designed a ground station GUI using the Processing programming language
   3. Established the flight S/W for a scientific rocket
 
+<br><br>
 
 ## Honors and Awards
   1. **Participation prize**, The Korean Society of Aeronautics and Space Science (June. 2023)<br>
