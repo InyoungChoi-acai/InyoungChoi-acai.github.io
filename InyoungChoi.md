@@ -58,7 +58,7 @@ Inyoung Choi received his B.S. degree (<i>summa cum laude</i>) in aerospace engi
  2. Study on OBP Network Routing and Handover Algorithms (2024 ~ 2025, Sponsor: Hanwha Systems)
 
 ### Undergraduate Research Associate
-**Undergraduate Research Intern at Space Systems and Control Lab. (Advisor: Donghyun Cho) (Jan. 2022 ~ Jan. 2024)**
+**Undergraduate Research Intern at SSC Lab. (Advisor: Donghyun Cho) (Jan. 2022 ~ Jan. 2024)**
  1. Study on the Dual quaternion (Jan. 2023 ~ Dec. 2023)
  2. Study on the Relative Dynamics for Rendezvous Optimization Mission (Jan. 2023 ~ Dec. 2023) <br>
    : Developed a rendezvous trajectory optimization algorithm using Trajectory Correction Maneuver (TCM) <br>
