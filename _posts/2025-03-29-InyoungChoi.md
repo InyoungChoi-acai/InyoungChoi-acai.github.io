@@ -1,8 +1,6 @@
 ---
 layout: post
-title: "Notice: Examination S/W"
-subtitle: For Numerical Analysis(2-2) & Space Science(3-1)
-date: 2023-09-24
+date: 2025-03-29
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">
