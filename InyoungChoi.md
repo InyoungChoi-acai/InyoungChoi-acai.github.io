@@ -5,7 +5,7 @@ subtitle: inyoung.choi@kaist.ac.kr
 full-width: true
 ---
 
-![Choi, Inyoung](/assets/img/최인영.jpg){:width="150px" height="180px"}
+![Choi, Inyoung](/assets/img/최인영.jpg){:width="150px" height="200px"}
 
 
 ## BIO
