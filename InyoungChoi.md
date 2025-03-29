@@ -19,9 +19,7 @@ full-width: true
 
 </div>
 
-<p style="text-align: justify;">
 Inyoung Choi received his B.S. degree (<i>summa cum laude</i>) in aerospace engineering from Pusan National University, Busan, South Korea, in 2024. He is currently pursuing his integrated master’s and doctoral course with the Department of Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST). His research interests are in Aerospace communication, network and the applications of deep reinforcement learning.
-</p>
 
 
 ## Education
