@@ -21,14 +21,20 @@ Aerospace Engineering, Pusan National University, Busan, South Korea (Advisor: D
 ## In preparing
 
 ## Ongoing
-1. (Under review) **I. Choi**, S. Kim, Y. Lee, and J. P. Choi, “A Scalable Multi-controller SDN Framework for LEO Mega-constellation via Topology Virtualization,” IEEE Internet of Things Journal.
+1. (Under review) **I. Choi**, S. Kim, Y. Lee, and J. P. Choi, “A Scalable Multi-controller SDN Framework for LEO Mega-constellation via Topology Virtualization,” IEEE Internet of Things Journal (IoTJ).
 
-2. (Under review) S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “Multi-gateway Feeder Link Switching Optimization in Multi-shell LEO Mega-constellations,”  submitted to IEEE Trans. on Communications. 
+2. (Under review) S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “Multi-gateway Feeder Link Switching Optimization in Multi-shell LEO Mega-constellations,”  IEEE Transactions on Communications (TCOM).
+
+3. (In perparing) S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “LEO Mega-constellation Configuration Design for Ubiquitous Connectivity in Global SDN Systems,” IEEE Transactions on Aerospace and Electronic Systems (TAES).
+
+4. (In preparing) S. Kim, **I. Choi**, and J. P. Choi, “O-RAN in LEO Mega-constellations : Architecture and Virtualization.”
+
+5. (In preparing) S. Kim, **I. Choi**, and J. P. Choi, “Joint Optimization of Online Network Slicing and Cell Association in SDN-enabled LEO Satellite Mega-constellations: A Model-based DRL Approach.”
 
 ## International Journal Publications
 
 ## International Conference Publications
-Journal publicatoins
+1. **I. Choi**, S. Kim and J. P. Choi, "A Simplified Algorithm for Online Satellite Network Slice Planning with Trade-Off Between Load-Balancing and Minimum-Hop Routing," 2024 15th International Conference on Information and Communication Technology Convergence (ICTC), 2024
 
 
 # Honors and Awards
