@@ -102,16 +102,16 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
 <br>
 
 ## Scholarship
-  1. **Hyunsong Educational & Cultural Foundation Scholarship (2025 ~ )**<br>
+  1. **Hyunsong Educational & Cultural Foundation Scholarship @ KAIST (2025 ~ )**<br>
   For 10 consecutive semesters, 10M KRW/semester
   
-  2. **Kim Young-Han Global Leader Scholarship (2024)**<br>
+  2. **Kim Young-Han Global Leader Scholarship @ KAIST (2024)**<br>
   For 2 consecutive semesters, 2M KRW/semester
   
-  3. **Academic Excellence Scholarship (2018, 2019 ~ 2023)**<br>
+  3. **Academic Excellence Scholarship @ PNU (2018, 2019 ~ 2023)**<br>
   For 6 undergraduate semesters
   
-  4. **National Science & Technology Scholarship (2023)**<br>
+  4. **National Science & Technology Scholarship @ PNU (2023)**<br>
   For 1 undergraduate semester
 
 
