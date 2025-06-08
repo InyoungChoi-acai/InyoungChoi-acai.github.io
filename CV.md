@@ -36,7 +36,7 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
   1. **I. Choi**, S. Kim, Y. Lee, and J. P. Choi, “A Scalable Multi-controller SDN Framework for LEO Mega-constellation via Topology Virtualization,” IEEE Internet of Things Journal, May 2025. (IF: 8.2, JCR Top 3% in Computer Science, Information Systems)
 
 ### Ongoing
-  1. **<h1 style="color: #0056A4; font-weight: bold; margin: 0;">(Under review)** S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “Multi-gateway Feeder Link Switching Optimization in Multi-shell LEO Mega-constellations,”  IEEE Transactions on Communications.
+  1. **(Under review)** S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “Multi-gateway Feeder Link Switching Optimization in Multi-shell LEO Mega-constellations,”  IEEE Transactions on Communications.
 
   2. **(In perparing)** K. Kim, **I. Choi**, W. Cha, and J. P. Choi, "Latency-Oriented Satellite-Aerial-Ground Integrated Network Optimization for 6G NB-IoT Systems", IEEE Transactions on Wireless Communications.
   
