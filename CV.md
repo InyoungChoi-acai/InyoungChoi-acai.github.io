@@ -38,7 +38,7 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
 ### Ongoing
   1. **(Under review)** S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “Multi-gateway Feeder Link Switching Optimization in Multi-shell LEO Mega-constellations,”  IEEE Transactions on Communications.
 
-  2. **(In perparing)** K. Kim, **I. Choi**, W. Cha, and J. P. Choi, "Latency-Oriented Satellite-Aerial-Ground Integrated Network Optimization for 6G NB-IoT Systems", IEEE Transactions on Wireless Communications.
+  2. **(Under review)** K. Kim, **I. Choi**, W. Cha, and J. P. Choi, "Latency-Oriented Satellite-Aerial-Ground Integrated Network Optimization for 6G NB-IoT Systems", IEEE Transactions on Wireless Communications.
   
   3. **(In perparing)** S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “LEO Mega-constellation Configuration Design for Ubiquitous Connectivity in Global SDN Systems,” IEEE Transactions on Aerospace and Electronic Systems.
   
