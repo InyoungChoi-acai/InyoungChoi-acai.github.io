@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Inyoung Choi"
 css:
   - "/assets/css/custom.css"
