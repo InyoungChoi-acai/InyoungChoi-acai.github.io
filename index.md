@@ -5,7 +5,7 @@ title: ""
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-<img src="/assets/img/최인영.jpg" alt="Choi, Inyoung" style="width: 140px; height: 190px; border-radius: 4px;">
+<img src="/assets/img/최인영.jpg" alt="Choi, Inyoung" style="width: 160px; height: 200px; border-radius: 4px;">
 
 <div>
   <h1 style="color: #0056A4; font-weight: bold; margin: 0;">INYOUNG CHOI</h1>
