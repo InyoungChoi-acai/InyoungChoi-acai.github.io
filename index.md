@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Inyoung Choi"
-full-width: true
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">
