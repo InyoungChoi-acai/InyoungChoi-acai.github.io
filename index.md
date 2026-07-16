@@ -3,7 +3,7 @@ layout: page
 title: "Inyoung Choi"
 ---
 
-<div style="margin: 0 auto; padding: 0 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
 
   <img src="/assets/img/최인영.jpg" alt="Choi, Inyoung" style="width: 140px; height: 190px; border-radius: 4px;">
 
