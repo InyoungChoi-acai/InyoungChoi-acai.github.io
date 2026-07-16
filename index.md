@@ -86,11 +86,14 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
 ## Honors and Awards
   1. **Participation prize**, The Korean Society of Aeronautics and Space Science (June. 2023)<br>
   : Student Paper Competition, Aerospace science competition for undergraduate students
+
   2. **Outstanding** Presentation Paper Award, Korea Society of Propulsion Engineering (May. 2022)<br>
   : Rocket Academic Competition, Aerospace Science Competition
-  3. **Gold medal**, Korea Aerospace Research Institute (Dec. 2021)<br>
+
+  4. **Gold medal**, Korea Aerospace Research Institute (Dec. 2021)<br>
   : Rocket Academic Competition, Aerospace Science Competition
-  4. **Grand prize**, Ministerial of Science and ICT (Dec. 2021)<br>
+
+  5. **Grand prize**, Ministerial of Science and ICT (Dec. 2021)<br>
   : Rocket Launch Competition, Aerospace Science Competition
 
 <br>
@@ -98,9 +101,12 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
 ## Scholarship
   1. **Hyunsong Educational & Cultural Foundation Scholarship @ KAIST (2025 - )**<br>
   For 10 consecutive semesters, 10M KRW/semester
+
   2. **Kim Young-Han Global Leader Scholarship @ KAIST (2024)**<br>
   For 2 consecutive semesters, 2M KRW/semester
+
   3. **Academic Excellence Scholarship @ PNU (2018, 2019 - 2023)**<br>
   For 6 undergraduate semesters
+
   4. **National Science & Technology Scholarship @ PNU (2023)**<br>
   For 1 undergraduate semester
