@@ -3,7 +3,7 @@ layout: page
 title: "Inyoung Choi"
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="max-width: 1000px; margin: 0 auto; padding: 0 20px;">
 
   <img src="/assets/img/최인영.jpg" alt="Choi, Inyoung" style="width: 140px; height: 190px; border-radius: 4px;">
 
@@ -63,19 +63,20 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
 
 ## Research Experience
 ### Graduate Research Associate
- 1. Development of OBP Network Technology for Ultra-Small Communication Satellites  (2024 ~ 2025, Sponsor: Hanwha Systems)
- 2. Study on OBP Network Routing and Handover Algorithms (2024 ~ 2025, Sponsor: Hanwha Systems)
+ 1. Research on Intelligent Routing Technologies for Mega-Constellation Satellite Networks (2025 - , Sponsor: KARI)
+ 2. Development of OBP Network Technology for Ultra-Small Communication Satellites  (2024 - 2025, Sponsor: Hanwha Systems)
+ 3. Study on OBP Network Routing and Handover Algorithms (2024 - 2025, Sponsor: Hanwha Systems)
 
 ### Undergraduate Research Associate
-**Undergraduate Research Intern at SSC Lab. (Advisor: Donghyun Cho) (Jan. 2022 ~ Jan. 2024)**
- 1. Research for Advancing Technologies of Reusable Uncrewed Space Vehicles (Jan. 2023 ~ Dec. 2023) <br>
+**Undergraduate Research Intern at SSC Lab. (Advisor: Donghyun Cho) (Jan. 2022 - Jan. 2024)**
+ 1. Research for Advancing Technologies of Reusable Uncrewed Space Vehicles (Jan. 2023 - Dec. 2023) <br>
    : Developed a dynamic simulator by using dual quaternion
- 2. Study on the Relative Dynamics for Rendezvous Optimization Mission (Jan. 2023 ~ Dec. 2023) <br>
+ 2. Study on the Relative Dynamics for Rendezvous Optimization Mission (Jan. 2023 - Dec. 2023) <br>
    : Developed a rendezvous trajectory optimization algorithm using Trajectory Correction Maneuver (TCM)
- 3. Study on the Satellite’s Attitude Control (Jul. 2022 ~ Dec. 2023) <br>
+ 3. Study on the Satellite’s Attitude Control (Jul. 2022 - Dec. 2023) <br>
    : Designed the satellite’s ADCS simulator based on Simulink and MATLAB
 
-**Solid-propellant Based Retro Rocket Development (Jan. 2021 ~ Dec. 2021)**
+**Solid-propellant Based Retro Rocket Development (Jan. 2021 - Dec. 2021)**
   1. Developed a PD controller and thrust vector control system using Arduino
   2. Designed a ground station GUI using the Processing programming language
   3. Established the flight S/W for a scientific rocket
@@ -85,27 +86,21 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
 ## Honors and Awards
   1. **Participation prize**, The Korean Society of Aeronautics and Space Science (June. 2023)<br>
   : Student Paper Competition, Aerospace science competition for undergraduate students
-  
   2. **Outstanding** Presentation Paper Award, Korea Society of Propulsion Engineering (May. 2022)<br>
   : Rocket Academic Competition, Aerospace Science Competition
-  
   3. **Gold medal**, Korea Aerospace Research Institute (Dec. 2021)<br>
   : Rocket Academic Competition, Aerospace Science Competition
-  
   4. **Grand prize**, Ministerial of Science and ICT (Dec. 2021)<br>
   : Rocket Launch Competition, Aerospace Science Competition
 
 <br>
 
 ## Scholarship
-  1. **Hyunsong Educational & Cultural Foundation Scholarship @ KAIST (2025 ~ )**<br>
+  1. **Hyunsong Educational & Cultural Foundation Scholarship @ KAIST (2025 - )**<br>
   For 10 consecutive semesters, 10M KRW/semester
-  
   2. **Kim Young-Han Global Leader Scholarship @ KAIST (2024)**<br>
   For 2 consecutive semesters, 2M KRW/semester
-  
-  3. **Academic Excellence Scholarship @ PNU (2018, 2019 ~ 2023)**<br>
+  3. **Academic Excellence Scholarship @ PNU (2018, 2019 - 2023)**<br>
   For 6 undergraduate semesters
-  
   4. **National Science & Technology Scholarship @ PNU (2023)**<br>
   For 1 undergraduate semester
