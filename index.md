@@ -5,17 +5,17 @@ title: "Inyoung Choi"
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="/assets/img/최인영.jpg" alt="Choi, Inyoung" style="width: 140px; height: 190px; border-radius: 4px;">
+<img src="/assets/img/최인영.jpg" alt="Choi, Inyoung" style="width: 140px; height: 190px; border-radius: 4px;">
 
-  <div>
-    <h1 style="color: #0056A4; font-weight: bold; margin: 0;">INYOUNG CHOI</h1>
-    <p style="margin: 4px 0 0 0;">
-      Ph. D. candidate<br>
-      Dept. of Aerospace Engineering<br>
-      Korea Advanced Institute of Science and Technology (KAIST)<br>
-      Email : <a href="mailto:inyoung.choi@kaist.ac.kr">inyoung.choi@kaist.ac.kr</a>
-    </p>
-  </div>
+<div>
+  <h1 style="color: #0056A4; font-weight: bold; margin: 0;">INYOUNG CHOI</h1>
+  <p style="margin: 4px 0 0 0;">
+    Ph. D. candidate<br>
+    Dept. of Aerospace Engineering<br>
+    Korea Advanced Institute of Science and Technology (KAIST)<br>
+    Email : <a href="mailto:inyoung.choi@kaist.ac.kr">inyoung.choi@kaist.ac.kr</a>
+  </p>
+</div>
 
 </div>
 
