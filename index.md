@@ -37,7 +37,7 @@ title: ""
 
 ### Ongoing
   1. **(Under review)** **I. Choi**, S. Kim, T. Im, and J. P. Choi, "Dynamic Virtual Network Embedding for Online Task Offloading in LEO Mega-Constellations", IEEE Transcations on Mobile Computing.
-  2. **(Under review)** K. Kim, **I. Choi**, W. Cha, and J. P. Choi, "Latency-Oriented Satellite-Aerial-Ground Integrated Network Optimization for 6G NB-IoT Systems", IEEE Transactions on Wireless Communications.
+  2. **(Under review, R2)** K. Kim, **I. Choi**, W. Cha, and J. P. Choi, "Latency-Oriented Satellite-Aerial-Ground Integrated Network Optimization for 6G NB-IoT Systems", IEEE Transactions on Wireless Communications.
   3. **(Under review)** S. Kim, **I. Choi**, and J. P. Choi, “Open Mega-Constellations: A Bilevel Virtualization Framework for Multi-Tenant Constellation Sharing”, IEEE Aerospace and Electronic Systems Magazine.
 
 <br>
