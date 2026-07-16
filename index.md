@@ -5,7 +5,7 @@ title: ""
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-<img src="/assets/img/최인영.jpg" alt="Choi, Inyoung" style="width: 160px; height: 200px; border-radius: 4px;">
+<img src="/assets/img/프로필사진1.jpg" alt="Choi, Inyoung" style="width: 300px; height: 400px; border-radius: 4px;">
 
 <div>
   <h1 style="color: #0056A4; font-weight: bold; margin: 0;">INYOUNG CHOI</h1>
@@ -14,13 +14,11 @@ title: ""
     Dept. of Aerospace Engineering<br>
     Korea Advanced Institute of Science and Technology (KAIST)<br>
     Email : <a href="mailto:inyoung.choi@kaist.ac.kr">inyoung.choi@kaist.ac.kr</a>
+    Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineering from Pusan National University, Busan, South Korea, in 2024. He is currently pursuing his integrated master’s and doctoral course with the Department of Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST). His research interests are in Aerospace communication, network and the applications of deep reinforcement learning.
   </p>
 </div>
 
 </div>
-
-Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineering from Pusan National University, Busan, South Korea, in 2024. He is currently pursuing his integrated master’s and doctoral course with the Department of Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST). His research interests are in Aerospace communication, network and the applications of deep reinforcement learning.
-
 
 ## Education
  **Integrated master's and doctoral course (Mar. 2024 ~ Present)**<br>
