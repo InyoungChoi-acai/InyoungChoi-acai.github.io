@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Inyoung Choi"
-css:
-  - "/assets/css/custom.css"
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">
