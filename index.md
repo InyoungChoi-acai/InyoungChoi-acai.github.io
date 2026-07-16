@@ -3,7 +3,7 @@ layout: page
 title: "Inyoung Choi"
 ---
 
-<div style="max-width: 1500px; margin: 0 auto; padding: 0 20px;">
+<div style="margin: 0 auto; padding: 0 20px;">
 
   <img src="/assets/img/최인영.jpg" alt="Choi, Inyoung" style="width: 140px; height: 190px; border-radius: 4px;">
 
@@ -16,6 +16,8 @@ title: "Inyoung Choi"
       Email : <a href="mailto:inyoung.choi@kaist.ac.kr">inyoung.choi@kaist.ac.kr</a>
     </p>
   </div>
+
+</div>
 
 Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineering from Pusan National University, Busan, South Korea, in 2024. He is currently pursuing his integrated master’s and doctoral course with the Department of Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST). His research interests are in Aerospace communication, network and the applications of deep reinforcement learning.
 
@@ -102,5 +104,3 @@ Inyoung Choi received his B.S. degree (*summa cum laude*) in aerospace engineeri
   For 6 undergraduate semesters
   4. **National Science & Technology Scholarship @ PNU (2023)**<br>
   For 1 undergraduate semester
-
-</div>
