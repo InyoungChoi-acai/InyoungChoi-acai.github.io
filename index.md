@@ -16,7 +16,7 @@ title: ""
     Email : <a href="mailto:inyoung.choi@kaist.ac.kr">inyoung.choi@kaist.ac.kr</a><br>
     Scholar: <a href="https://scholar.google.com/citations?user=i5gagXQAAAAJ&hl=ko">Link</a><br>
     <br>
-    Inyoung Choi received his B.S. degree (summa cum laude) in aerospace engineering from Pusan National University, Busan, South Korea, in 2024. He is currently pursuing his integrated master’s and doctoral course with the Department of Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST). His research interests are in Aerospace communication, network and the applications of deep reinforcement learning.
+    Inyoung Choi received his B.S. degree (_summa cum laude_) in aerospace engineering from Pusan National University, Busan, South Korea, in 2024. He is currently pursuing his integrated master’s and doctoral course with the Department of Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST). His research interests are in Aerospace communication, network and the applications of deep reinforcement learning.
   </p>
 </div>
 
@@ -33,12 +33,13 @@ title: ""
 
 ## Journal Publications
 ### International Journal Publications
-  1. S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “Multi-Gateway Feeder Link Switching Optimization in Multi-Shell LEO Mega-Constellations,” IEEE Trans. on Communications, Jan. 2026. (IF: 8.3, JCR Top 7% in Engineering, Electrical & Electronic)
-  2. **I. Choi**, S. Kim, Y. Lee, and J. P. Choi, “A Scalable Multi-controller SDN Framework for LEO Mega-constellation via Topology Virtualization,” IEEE Internet of Things Journal, May 2025. (IF: 8.9, JCR Top 5% in Computer Science, Information Systems)
+  1. K. Kim, **I. Choi**, W. Cha, and J. P. Choi, "Latency-Oriented Satellite-Aerial-Ground Integrated Network Optimization for 6G NB-IoT Systems", IEEE Transactions on Wireless Communications, Oct. 2026. (IF: 10.3, JCR Top 4 % in Telecommunications) 
+  2. S. Kim, **I. Choi**, Y. Lee, and J. P. Choi, “Multi-Gateway Feeder Link Switching Optimization in Multi-Shell LEO Mega-Constellations,” IEEE Transactions on Communications, Jan. 2026. (IF: 8.3, JCR Top 7 % in Engineering, Electrical & Electronic)
+  3. **I. Choi**, S. Kim, Y. Lee, and J. P. Choi, “A Scalable Multi-controller SDN Framework for LEO Mega-constellation via Topology Virtualization,” IEEE Internet of Things Journal, May 2025. (IF: 8.9, JCR Top 5 % in Computer Science, Information Systems)
 
 ### Ongoing
-  1. **(Under review)** **I. Choi**, S. Kim, T. Im, and J. P. Choi, "Dynamic Virtual Network Embedding for Online Task Offloading in LEO Mega-Constellations", IEEE Transcations on Mobile Computing.
-  2. **(Under review, R2)** K. Kim, **I. Choi**, W. Cha, and J. P. Choi, "Latency-Oriented Satellite-Aerial-Ground Integrated Network Optimization for 6G NB-IoT Systems", IEEE Transactions on Wireless Communications.
+  1. **(Under review)** **I. Choi**, S. Kim, M. Kim, I. Kim and J. P. Choi, "Intelligent Virtual Network Embedding with Martingale Analysis in LEO Mega-Constellations", IEEE Transactions on Mobile Computing.
+  2. **(Under review)** **I. Choi**, S. Kim, T. Im, and J. P. Choi, "Dynamic Virtual Network Embedding for Online Task Offloading in LEO Mega-Constellations", IEEE Transactions on Mobile Computing.
   3. **(Under review)** S. Kim, **I. Choi**, and J. P. Choi, “Open Mega-Constellations: A Bilevel Virtualization Framework for Multi-Tenant Constellation Sharing”, IEEE Aerospace and Electronic Systems Magazine.
 
 <br>
@@ -56,16 +57,17 @@ title: ""
 
 <br>
 
-## Patents
-1. To be updated.
-
-<br>
-
 ## Research Experience
 ### Graduate Research Associate
  1. Research on Intelligent Routing Technologies for Mega-Constellation Satellite Networks (2025 - , Sponsor: KARI)
  2. Development of OBP Network Technology for Ultra-Small Communication Satellites  (2024 - 2025, Sponsor: Hanwha Systems)
  3. Study on OBP Network Routing and Handover Algorithms (2024 - 2025, Sponsor: Hanwha Systems)
+
+### Paper Reviewer
+ 1. IEEE Transactions on Mobile Computing
+ 2. IEEE Wireless Communications
+ 3. IEEE Transactions on Aerospace and Electronic Systems
+ 4. IEEE Communications Letters
 
 ### Undergraduate Research Associate
 **Undergraduate Research Intern at SSC Lab. (Advisor: Donghyun Cho) (Jan. 2022 - Jan. 2024)**
@@ -99,7 +101,7 @@ title: ""
 <br>
 
 ## Scholarship
-  1. **Hyunsong Educational & Cultural Foundation Scholarship @ KAIST (2025 - )**<br>
+  1. **Hyunsong Educational & Cultural Foundation Scholarship @ KAIST (2025 - 2029)**<br>
   For 10 consecutive semesters, 10M KRW/semester
 
   2. **Kim Young-Han Global Leader Scholarship @ KAIST (2024)**<br>
@@ -110,3 +112,8 @@ title: ""
 
   4. **National Science & Technology Scholarship @ PNU (2023)**<br>
   For 1 undergraduate semester
+
+<br>
+
+## Patents
+1. To be updated.
